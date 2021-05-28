@@ -1,0 +1,1 @@
+Java -jar ./dist/Barcode_detect_from_PDF_2021_03_17.jar
